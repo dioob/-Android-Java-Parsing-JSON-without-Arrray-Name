@@ -1,4 +1,4 @@
-# Aolikasi Android Simple Parsing JSON tanpa nama Array
+# Aplikasi Android Simple Parsing JSON tanpa nama Array
 </br>
 <p align="justify">Aplikasi android yang dibuat menggunakan bahasa pemrograman Java menggunakan aplikasi Android Studio ini melakukan parse JSON dari web tanpa nama array. 
 Datanya terdapat pada file "JSON data.txt".
